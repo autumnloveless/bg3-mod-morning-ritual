@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="5" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>				
+				<node id="GameObjects"> Underwear of Morning Ritual
+					<attribute id="Description" type="TranslatedString" handle="h9c8e5f54g892eg4885gbc0bgdfacfd69aa2b" version="2" /> Points to Localization xml file. Generate new handle with BG3 Modder's Multitool
+					<attribute id="DisplayName" type="TranslatedString" handle="ha93df1e0gb514g4434ga655gc17d6874baf5" version="3" /> Points to Localization xml file. Generate new handle with BG3 Modder's Multitool
+					<attribute id="Icon" type="FixedString" value="ARM_Underwear_Humans" /> Use the same icon as the ParentTemplate ring	
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="f831b975-665c-4db2-98f1-50f55ee6d7c4" /> Same UUID as in Armor.txt. Generate new UUID
+					<attribute id="Name" type="LSString" value="SMR_Underwear_MorningRitual" /> Same as Stats
+					<attribute id="ParentTemplateId" type="FixedString" value="d40b567d-6b66-447e-8923-2bbd0d7aea00" /> Points to ARM_Underwear_Humans
+					<attribute id="Stats" type="FixedString" value="SMR_Underwear_MorningRitual" /> Stats for the Armor.txt
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>		
+			</children>
+		</node>
+	</region>
+</save>
