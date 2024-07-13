@@ -8,3 +8,9 @@ A ritual cast spell that applies the following effects to all allies until the n
 - Longstrider
 - Enhance Leap
 - Speak with Animals 
+
+## Location
+Can be found in:
+- Act 1: the tutorial chest, Arron (Druid Grove), Derryth Bonecloak (Underdark)
+- Act 2: Dammon
+- Act 3: Dammon
